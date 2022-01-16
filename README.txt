@@ -1,2 +1,4 @@
 rm
 mv
+dt
+apt
